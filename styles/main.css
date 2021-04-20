@@ -1,0 +1,23 @@
+body {
+    background-color: #111a21;
+    color: #cccfcf;
+    text-align: center;
+    font-family: "Roboto";
+}
+
+a:link {
+    color: #cccfff;
+}
+
+a:visited {
+    color: #9c9fff;
+}
+
+main {
+    display: inline-block;
+    text-align: left;
+    background-color: #22222f;
+    margin: 1em;
+    padding: 2em 10em;
+    width: 40em;
+}
